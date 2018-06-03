@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="models/|tilemap/|textures/" kind="src" path="assets"/>
+	<classpathentry kind="src" path="assets/models"/>
+	<classpathentry kind="src" path="assets/tilemap"/>
+	<classpathentry kind="src" path="assets/textures"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Liandri/Downloads/jogamp-all-platforms/jar/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liandri/Downloads/jogamp-all-platforms/jar/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Liandri/Desktop/obj-0.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
